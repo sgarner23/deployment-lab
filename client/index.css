@@ -43,7 +43,14 @@ body {
   border: .2px;
   text-align: center;
   font-size: 15px;
-  color: rgba(144, 154, 166, 0.1)
+  color: rgba(144, 154, 166, 0.8)
+}
+
+.first-name-container input::placeholder{
+  color: rgba(144, 154, 166, 0.8)
+}
+.last-name-container input::placeholder{
+  color: rgba(144, 154, 166, 0.8)
 }
 
 .last-name-container {
